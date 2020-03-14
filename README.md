@@ -4,6 +4,6 @@
 
 [Ingyenessé tett onnline oktatási megoldások](https://docs.google.com/spreadsheets/d/1NUKLZN7hGSu1Hzm70kfzBKs-lsSELaEMggS60Bi2O2I/htmlview?usp=embed_facebook&fbclid=IwAR0Tm6ZRUvkgo7i7oR6Ffu32x513v5gqB4XvSPXbDcMvx6yD2cYGXakQ7nw&sle=true&pru=AAABcPpeDaw*ol-VpNBsBtWfYQpyaQnayQ)
 
-[Mozaik kiadó ingyenessé tett kiadványai](https://www.mozaweb.hu/course.php?cmd=book_list_inner&spec=subjects&fbclid=IwAR2omaMMZv4f6yLsDdBOhE5MIaZqpIL7HAMhrYX8cjnFGs8g8UYtfUo0XCE) ([FB](https://www.facebook.com/groups/496041051271792/permalink/496887331187164/))
+[Mozaik kiadó ingyenessé tett kiadványai-irodalom](https://www.mozaweb.hu/course.php?cmd=book_list_inner&fbclid=IwAR2omaMMZv4f6yLsDdBOhE5MIaZqpIL7HAMhrYX8cjnFGs8g8UYtfUo0XCE&subject=MGY&books_view=block))
 
 [Online feladatok](https://iwitness.usc.edu/sfi/Activity/?fbclid=IwAR2N7_5sa-SxkpqEjYIZABBBXCltiUqayU1389vSqVWoWiZ453HLwmV8_uY) ([FB](https://www.facebook.com/groups/496041051271792/permalink/496824357860128/))
